@@ -1,28 +1,30 @@
-# 🔐 Nur  | Security Researcher
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28px"> Nur_234m3 | Security Researcher
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=BIOS%2FUEFI+Specialist;Low-Level+Reverse+Engineer;Security+Tool+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BIOS%2FUEFI+Security+Specialist;Low-Level+Reverse+Engineer;Firmware+Security+Researcher" alt="Typing Animation">
 </h3>
 
 ---
 
-## 🛡️ Core Expertise
+## 🔍 Core Competencies
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=asm&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/UEFI-0078D7?style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-FF6C37?style=for-the-badge&logo=radar&logoColor=white">
+  <img src="https://img.shields.io/badge/x86_64-000000?style=flat&logo=assemblyscript&logoColor=white">
+  <img src="https://img.shields.io/badge/UEFI-0078D7?style=flat&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-FF6C37?style=flat&logo=radar&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
 </p>
 
 ---
 
-## 🔭 Current Projects
+## 🛠️ Active Research Projects
 
-### [BIOS Password Toolkit](https://github.com/Nur-m2r5r/bios-toolkit)
+### [BIOS Security Toolkit](https://github.com/Nur_234m3/bios-toolkit)
 ```c
-// Sample from bios_analyzer.c
-void dump_spi_flash() {
+// SPI Flash Dumper (Educational Use Only)
+void dump_firmware(uint8_t* buffer) {
     mmio_write(SPI_CTRL, READ_CMD);
     while(!(mmio_read(SPI_STATUS) & READY_FLAG);
-    // Educational purposes only!
+    mmio_read_block(SPI_DATA, buffer, FLASH_SIZE);
 }
