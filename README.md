@@ -1,4 +1,4 @@
-# 🔐 Nur_234m3 | Security Researcher
+# 🔐 Nur  | Security Researcher
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=BIOS%2FUEFI+Specialist;Low-Level+Reverse+Engineer;Security+Tool+Developer" alt="Typing Animation">
@@ -18,7 +18,7 @@
 
 ## 🔭 Current Projects
 
-### [BIOS Password Toolkit](https://github.com/Nur_234m3/bios-toolkit)
+### [BIOS Password Toolkit](https://github.com/Nur-m2r5r/bios-toolkit)
 ```c
 // Sample from bios_analyzer.c
 void dump_spi_flash() {
