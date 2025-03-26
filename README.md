@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28px"> Nur_234m3 | Security Researcher
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28px"> Nur-m2r5 | Security Researcher
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=#b2f233&center=true&vCenter=true&width=500&lines=BIOS%2FUEFI+Security+Specialist;Low-Level+Reverse+Engineer;Firmware+Security+Researcher" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1000&color=b2f233&center=true&vCenter=true&width=500&lines=BIOS%2FUEFI+Security+Specialist;Low-Level+Reverse+Engineer;Firmware+Security+Researcher" alt="Typing Animation">
 </h3>
 
 ---
@@ -15,19 +15,39 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white">
 </p>
-
+<p align="center">
+  <img src="https://badges.pufler.dev/contributions/yearly/Nur-m2r5?color=blue&style=flat&logo=github">
+  <img src="https://badges.pufler.dev/repos/Nur-m2r5?color=blue&style=flat&logo=github">
+  <img src="https://badges.pufler.dev/commits/monthly/Nur-m2r5?color=blue&style=flat&logo=github">
+</p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/Nur-m2r5?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nur-m2r5&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15">
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nur-m2r5&repo=bios-toolkit&theme=dark&hide_border=true">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nur-m2r5&repo=hsm-research&theme=dark&hide_border=true">
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-m2r5&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,scss">
+</p>
 ---
 
 ## 🛠️ Active Research Projects
 <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nur-m2r5r&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nur-m2r5r&theme=dark&hide_border=true"> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nur-m2r5r&theme=react-dark&hide_border=true&area=true"> </p>
-<p align="center"> <a href="mailto:research@nur234m3.io"><img src="https://img.shields.io/badge/Email-Professional%20Inquiries-important?style=flat&logo=protonmail"></a> <a href="https://twitter.com/Nur_234m3"><img src="https://img.shields.io/badge/Twitter-Academic%20Discussions-informational?style=flat&logo=twitter"></a> <a href="https://www.linkedin.com/in/nur234m3"><img src="https://img.shields.io/badge/LinkedIn-Collaborations-blue?style=flat&logo=linkedin"></a> </p>
+<p align="center"> <a href="mailto:research@nur234m3.io"><img src="https://img.shields.io/badge/Email-Professional%20Inquiries-important?style=flat&logo=protonmail"></a> <a href="https://twitter.com/Nur-m2r5"><img src="https://img.shields.io/badge/Twitter-Academic%20Discussions-informational?style=flat&logo=twitter"></a> <a href="https://www.linkedin.com/in/nur234m3"><img src="https://img.shields.io/badge/LinkedIn-Collaborations-blue?style=flat&logo=linkedin"></a> </p>
 <div align="center"> <sub>Last updated: {DATE} | PGP: <a href="https://keys.openpgp.org">0xABCDEF1234567890</a></sub> </div>
+---
 
-### [BIOS Security Toolkit](https://github.com/Nur-m2r5r/bios-toolkit)
+## 🛠️ Active Research Projects
+
+### [BIOS Security Toolkit](https://github.com/Nur-m2r5/bios-toolkit)
+```c
 // SPI Flash Dumper (Educational Use Only)
-```
 void dump_firmware(uint8_t* buffer) {
     mmio_write(SPI_CTRL, READ_CMD);
-    while(!(mmio_read(SPI_STATUS) & READY_FLAG);
+    while(!(mmio_read(SPI_STATUS) & READY_FLAG));
     mmio_read_block(SPI_DATA, buffer, FLASH_SIZE);
 }
