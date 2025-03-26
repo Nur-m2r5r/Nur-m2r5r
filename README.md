@@ -19,6 +19,7 @@
 ---
 
 ## 🛠️ Active Research Projects
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nur_234m3&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true"> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nur_234m3&theme=dark&hide_border=true"> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nur_234m3&theme=react-dark&hide_border=true&area=true"> </p>
 
 ### [BIOS Security Toolkit](https://github.com/Nur_234m3/bios-toolkit)
 ```c
