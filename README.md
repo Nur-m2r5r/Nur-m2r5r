@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to My Profile! 🚀
+
+## My Projects
+- [BIOS/UEFI Tool](https://github.com/Nur_234m3/dir)
+
+## Demo
+![Tool Screenshot](https://github.com/Nur_234m3/dir/blob/main/screenshot.png?raw=true)
+
+[![YouTube Tutorial](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
