@@ -20,19 +20,7 @@
   <img src="https://badges.pufler.dev/repos/Nur-m2r5?color=blue&style=flat&logo=github">
   <img src="https://badges.pufler.dev/commits/monthly/Nur-m2r5?color=blue&style=flat&logo=github">
 </p>
-<p align="center">
-  <img src="https://metrics.lecoq.io/Nur-m2r5?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nur-m2r5&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15">
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nur-m2r5&repo=bios-toolkit&theme=dark&hide_border=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Nur-m2r5&repo=hsm-research&theme=dark&hide_border=true">
-</p>
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-m2r5&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,scss">
-</p>
+
 ---
 
 ## 🛠️ Active Research Projects
